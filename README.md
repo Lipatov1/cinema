@@ -8,6 +8,7 @@
 - Next.js
 - TypeScript
 - React Query (TanStack Query)
+- React Hook Form
 - Redux Toolkit
 - Axios
 - Tailwind
