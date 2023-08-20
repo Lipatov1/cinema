@@ -31,7 +31,7 @@
 ![Admin Panel (Movies) screenshot](app/assets/images/movies.jpg)
 
 ## Admin Panel (Edit Movie):
-![Offer screenshot](app/assets/images/edt-movie.jpg)
+![Admin Panel (Edit Movie) screenshot](app/assets/images/edt-movie.jpg)
 
 ## Auth:
 ![Auth screenshot](app/assets/images/auth.jpg)
